@@ -1,0 +1,3 @@
+Hi there,
+This is some sample text for the bar.txt file
+You can add anything you want
